@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 14 21:13:53 2023
+# Process ID: 6188
+# Current directory: C:/Users/User/ACTIVATION FUNCTION/Sigmoid_Function_in_BRAM/Sigmoid_Function_in_BRAM.runs/synth_1
+# Command line: vivado.exe -log Sigmoid_BRAM.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Sigmoid_BRAM.tcl
+# Log file: C:/Users/User/ACTIVATION FUNCTION/Sigmoid_Function_in_BRAM/Sigmoid_Function_in_BRAM.runs/synth_1/Sigmoid_BRAM.vds
+# Journal file: C:/Users/User/ACTIVATION FUNCTION/Sigmoid_Function_in_BRAM/Sigmoid_Function_in_BRAM.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Sigmoid_BRAM.tcl -notrace
